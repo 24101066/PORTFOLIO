@@ -205,22 +205,7 @@ body {
     transition: 0.3s;
 }
 
-.resume-btn {
-    background: red;
 
-    color: white;
-
-    box-shadow:
-        0 0 15px rgba(255, 0, 0, 0.25);
-}
-
-.resume-btn:hover {
-    transform: translateY(-4px);
-
-    box-shadow:
-        0 0 15px red,
-        0 0 35px rgba(255, 0, 0, 0.4);
-}
 
 .contact-btn {
     width: 145px;
